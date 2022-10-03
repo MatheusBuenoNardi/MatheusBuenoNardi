@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MatheusBuenoNard
 - 👀 I’m interested in  desenvolvimento mobile com flutter
-- 🌱 I’m currently learning **Flutter** e  **Python**
+- 🌱 I’m currently learning **Flutter** e  **Python** :hand:
 - 💞️ Atualmente Cursando ensino superior em Análise e Desenvolvimento de Sistemas
 - 📫 How to reach me   matheusnardi2004@gmail.com
 
