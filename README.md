@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MatheusBuenoNardi 🔥🔥
 - 👀 I’m interested in  desenvolvimento mobile com flutter and QA analyst
-- 🌱 I’m currently learning **Flutter** e  **Python** :hand:
+- 🌱 I’m currently learning **Flutter** e  **Quality Assurance** :hand:
 - 💞️ Atualmente Cursando ensino superior em Análise e Desenvolvimento de Sistemas
 - 📫 How to reach me   matheusnardi2004@gmail.com
 
